@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 간단한 쇼핑몰 프로젝트
 
 ## 사용기술
@@ -45,3 +46,6 @@ Bootstrap, HTML, CSS, SpringBoot, thymeleaf, JPA, MYSQL
 
 회원명 or 주문상태로 검색기능과 주문 취소 기능이 있다.
 
+=======
+# Shopping
+>>>>>>> aeb9cc1cb42b49c06936dd225adaea9ee230edc8
